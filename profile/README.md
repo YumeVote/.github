@@ -33,3 +33,14 @@ Since the government currently has access on how each private and public key pai
 9. History Webpage that allows the anybody to do recheck and reverify the final results themselves by displaying Vote ID, Vote, Digital Signature, and Hash
 10. Vote Individual Verifier Webpage that allows individual to review who they have voted for by allowing them to input the Vote ID
 
+## Systems and Repositories
+
+1. [Emulated Government Service API](https://github.com/YumeVote/emulated-government-service-api)
+   An API Service that emulates what the government would need to reveal to the public for the system to work
+2. [Voting Service API](https://github.com/YumeVote/voting-service-api)
+   An API Service that verifies the identity of the citizen, casts votes in the system and make the vote verifiable on Maschain
+3. [Voting IOT Machine UI](https://github.com/YumeVote/voting-service-api)
+   A emulated GUI application which acts as a POS IOT Machine (DRE) to allow people to vote for election on the Maschain
+4. [Public Facing Website](https://github.com/yumevote/yumevote)
+   A react-based website which the voters or any third parties could use to verify the authenticity of the votes and trace their own vote by looking at audit history
+
