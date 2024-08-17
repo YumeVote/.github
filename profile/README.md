@@ -1,5 +1,7 @@
 # YumeVote
 
+![image](https://github.com/user-attachments/assets/1d97315c-0210-4fcc-81c6-b9704b67123f)
+
 ## Problem Statement
 The trust between Government and citizens is crucial. With many elections happening, citizens demand a transparent and trustable election process. With nowadays way of conducting the election, some people might find the result unreliable. This results in poor citizen satisfaction and a higher rate of “absent vote”. Therefore, with the collaboration between IoT and Blockchain technology, this particular problem will be overcome well.
 ## Requirements
