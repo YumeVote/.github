@@ -1,7 +1,7 @@
 # YumeVote
 
 ## Problem Statement
-Lucius Please write down the problem statement we have identified perviously
+The trust between Government and citizens is crucial. With many elections happening, citizens demand a transparent and trustable election process. With nowadays way of conducting the election, some people might find the result unreliable. This results in poor citizen satisfaction and a higher rate of “absent vote”. Therefore, with the collaboration between IoT and Blockchain technology, this particular problem will be overcome well.
 ## Requirements
 - Individual Verifiability - A voter can check their vote has been properly counted by themselves without revealing to the public who they are, but the government will always know who they are if they retrace with the public key
 - Universal Verifiability - Everyone (every citizens) can check each and every votes are valid and tallied correctly. The verifier wouldn’t necessarily know who the citizen is, but they will know it is valid by checking the sign message with the published public keys
